@@ -72,10 +72,15 @@ Merge Data for a Full-Year View:
 Once I’ve worked with the individual spreadsheets, I merge them into a comprehensive full-year dataset.
 I use the chosen analysis tool for this—whether it’s a spreadsheet, a database with SQL, or R Studio.
 
-5.Export a Summary File:
+5. Export a Summary File:
 
 After finalizing my analysis, I export a summary file for further exploration or reporting.
 
 # Share
-First I analyze total rides by casual & members
+First, I analyze total rides by casual & members.
+
 ![Text](TotalRides.png)
+
+Second, I looked at the days of the week when casuals and members use bikes.
+
+![Text](AVERAGE ride length by members & casuals.png)
