@@ -81,7 +81,7 @@ First, I analyze total rides by casual & members.
 
 ![Text](TotalRides.png)
 
-Second, I looked at the days of the week when casuals and members use bikes.
+Second, I looked at the days of the week when casuals and members use bikes. (1-Sunday, 2-Monday, 3-Tuesday, 4-Wednesday, 5-Thursday, 6-Friday, 7-Saturday)
 
 ![Text](ride_length.png)
 
@@ -92,3 +92,9 @@ Third, I look at the day of the week when members and casuals use bikes.
 Fourth, I found what type of transport members and casuals use.
 
 ![text](types.png)
+
+##Summary
+
+| Member | Casual |
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Use bikes more often and regularly throughout the week for shorter rides. Drastically prefer regular bikes.  | Use bikes less often, preferably on weekends, for longer rides. Prefer bikes a bit more than other options.         |
