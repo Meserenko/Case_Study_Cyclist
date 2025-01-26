@@ -83,4 +83,12 @@ First, I analyze total rides by casual & members.
 
 Second, I looked at the days of the week when casuals and members use bikes.
 
-![Text](AVERAGE ride length by members & casuals.png)
+![Text](ride_length.png)
+
+Third, I look at the day of the week when members and casuals use bikes.
+
+![Text](day_of_week.png)
+
+Fourth, I found what type of transport members and casuals use.
+
+![text](types.png)
