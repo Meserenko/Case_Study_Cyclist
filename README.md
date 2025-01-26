@@ -78,4 +78,4 @@ After finalizing my analysis, I export a summary file for further exploration or
 
 # Share
 First I analyze total rides by casual & members
-![Text](Case_Study_Cyclist/TotalRides.png)
+![Text](TotalRides.png)
